@@ -1,10 +1,5 @@
 # SOFABolt Project
 
-[![Build Status](https://travis-ci.org/alipay/sofa-bolt.svg?branch=master)](https://travis-ci.org/alipay/sofa-bolt)
-[![Coverage Status](https://codecov.io/gh/alipay/sofa-bolt/branch/master/graph/badge.svg)](https://codecov.io/gh/alipay/sofa-bolt)
-![license](https://img.shields.io/badge/license-Apache--2.0-green.svg)
-![version](https://img.shields.io/maven-central/v/com.alipay.sofa/bolt.svg?label=bolt)
-
 # 1. 介绍
 SOFABolt 是蚂蚁金融服务集团开发的一套基于 Netty 实现的网络通信框架。
 * 为了让 Java 程序员能将更多的精力放在基于网络通信的业务逻辑实现上，而不是过多的纠结于网络底层 NIO 的实现以及处理难以调试的网络问题，Netty 应运而生。
